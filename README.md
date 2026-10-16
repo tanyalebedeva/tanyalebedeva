@@ -5,7 +5,7 @@
 <hr>
 
 <!-- Картинка справа: замени ссылку на свою гифку -->
-<img align="right" width="45%" src="https://tenor.com/iuOTHgtB7Ui.gif" alt="literally me">
+<img align="right" width="45%" src="https://tenor.com/ru/view/sanrio-sanrio-characters-cinnamoroll-sanrio-character-gif-11113269910641082588" alt="literally me">
 
 ### Current stack
 
@@ -27,6 +27,6 @@ Label Studio · Roboflow · YOLOv8 · PyTest · MS SQL Server · Excel · S3 · 
 
 ### Projects
 
-**[<!-- имя RAG-репо -->](https://github.com/tanyalebedeva/<!-- имя -->)**: RAG over <!-- каким документам --> with source citations.
+**[voice-rag](https://github.com/tanyalebedeva/voice-rag)**: Voice RAG for Banking
 
 **[travel-dss](https://github.com/tanyalebedeva/travel-dss)**: decision support system for choosing a trip destination. Uses an OWL ontology, MILP optimization and a Streamlit UI.
