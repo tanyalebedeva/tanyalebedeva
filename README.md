@@ -15,16 +15,6 @@
 
 Label Studio · Roboflow · YOLOv8 · PyTest · MS SQL Server · Excel · S3 · JSON
 
-### What I do
-
-- Evaluate speech models and LLMs: corner cases, error and generation anomaly analysis, model version comparison
-- Write test prompts and scenarios, check LLM answers for correctness and robustness
-- Set up annotation in Label Studio from scratch (S3 import, JSON tasks), label speech data, keep datasets consistent
-- Train CV models: YOLOv8, transfer learning, hyperparameter tuning
-- Track bot metrics: WER, operator handoff rate
-
-<br clear="right">
-
 ### Projects
 
 **[voice-rag](https://github.com/tanyalebedeva/voice-rag)**: Voice RAG for Banking
