@@ -5,7 +5,7 @@
 <hr>
 
 <!-- Картинка справа: замени ссылку на свою гифку -->
-<img align="right" width="45%" src="https://tenor.com/ru/view/sanrio-sanrio-characters-cinnamoroll-sanrio-character-gif-11113269910641082588" alt="literally me">
+<img align="right" width="45%" src="https://media1.tenor.com/m/mjpEGmTMgNwAAAAC/sanrio-sanrio-characters.gif" alt="literally me">
 
 ### Current stack
 
