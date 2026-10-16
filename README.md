@@ -1,7 +1,7 @@
 <!-- Кладётся в репозиторий tanyalebedeva/tanyalebedeva под именем README.md -->
 
 <hr>
-<h3 align="center">ML / LLM QA Engineer</h3>
+<h3 align="center">ML / LLM Engineer (SpeechTech)</h3>
 <hr>
 
 <!-- Картинка справа: замени ссылку на свою гифку -->
