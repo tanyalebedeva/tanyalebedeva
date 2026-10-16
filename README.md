@@ -19,4 +19,4 @@ Label Studio · Roboflow · YOLOv8 · PyTest · MS SQL Server · Excel · S3 · 
 
 **[voice-rag](https://github.com/tanyalebedeva/voice-rag)**: Voice RAG for Banking
 
-**[travel-dss](https://github.com/tanyalebedeva/travel-dss)**: decision support system for choosing a trip destination. Uses an OWL ontology, MILP optimization and a Streamlit UI.
+**[travel-dss](https://github.com/tanyalebedeva/travel-dss)**: decision support system for choosing a trip destination.
