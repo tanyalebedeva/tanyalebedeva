@@ -22,3 +22,5 @@ Label Studio · Roboflow · YOLOv8 · PyTest · MS SQL Server · Excel · S3 · 
 **[travel-dss](https://github.com/tanyalebedeva/travel-dss)**: decision support system for choosing a trip destination.
 
 **[call-audio-analysis](https://github.com/tanyalebedeva/call-audio-analysis)**: Call analysis system: speech enhancement, emotions, VAE.
+
+**[asr-diff](https://github.com/tanyalebedeva/asr-diff)**: Russian text normalization and WER/CER for ASR evaluation.
