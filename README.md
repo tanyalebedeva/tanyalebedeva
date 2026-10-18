@@ -17,6 +17,8 @@ Label Studio · Roboflow · YOLOv8 · PyTest · MS SQL Server · Excel · S3 · 
 
 ### Projects
 
-**[voice-rag](https://github.com/tanyalebedeva/voice-rag)**: Voice RAG for Banking
+**[voice-rag](https://github.com/tanyalebedeva/voice-rag)**: Voice RAG for Banking.
 
 **[travel-dss](https://github.com/tanyalebedeva/travel-dss)**: decision support system for choosing a trip destination.
+
+**[call-audio-analysis](https://github.com/tanyalebedeva/call-audio-analysis)**: Call analysis system: speech enhancement, emotions, VAE.
